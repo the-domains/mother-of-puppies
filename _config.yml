@@ -1,14 +1,14 @@
-layout_spectrum: 0.8315336499363184
-typography_spectrum: 0.5621303534135222
+layout_spectrum: 0.18445420311763883
+typography_spectrum: 0.8416630092542619
 color:
-  brandStrength: 0.22586559946648777
-  lightness: 0.4211968518793583
-  saturation: 0.08817532169632614
-  rhythmicContrast: 0.735940236132592
+  brandStrength: 0.17235168744809926
+  lightness: 0.6664071707054973
+  saturation: 0.1870303514879197
+  rhythmicContrast: 0.27975123724900186
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 name: Mother of Puppies
